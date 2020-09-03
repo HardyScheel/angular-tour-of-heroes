@@ -1,6 +1,8 @@
 # Tour of heroes app
 The app to the 'tour of heroes' tutorial from the Angular framework team. The tutorial is located at [official Angular tutorial](https://angular.io/tutorial{:target="_blank"}).
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
+
 ## Table of contents
 - [First steps](#First-steps)
 - [Start a development server](#Start-a-development-server)
