@@ -1,5 +1,5 @@
 # Tour of heroes app
-The app to the 'tour of heroes' tutorial from the Angular framework team. The tutorial is located at [official Angular tutorial](https://angular.io/tutorial).
+The app to the 'tour of heroes' tutorial from the official Angular tutorial, which is located at [https://angular.io/tutorial](https://angular.io/tutorial).
 
 ## Table of contents
 - [First steps](#First-steps)
