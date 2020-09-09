@@ -1,5 +1,8 @@
 # Tour of heroes app
+This is an angular tech-demo.
 The app to the 'tour of heroes' tutorial from the official Angular tutorial, which is located at [https://angular.io/tutorial](https://angular.io/tutorial).
+
+You can see my live demo here: [https://angular-tour-of-heroes-5faa4.web.app/](https://angular-tour-of-heroes-5faa4.web.app/)
 
 ## Table of contents
 - [First steps](#First-steps)
